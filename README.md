@@ -11,9 +11,9 @@ Je suis un passionné de tech, de dev logiciel, de dev de jeux vidéo et de mont
 **Langages & FrameWorks**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 **Game Dev & 3D**
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white)
 
 **Environnement & SysAdmin**
 ![Manjaro](https://img.shields.io/badge/Manjaro_Linux-35BF5C?style=flat-square&logo=manjaro&logoColor=white)

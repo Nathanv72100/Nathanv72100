@@ -9,22 +9,15 @@ Je suis un passionné de tech, de dev logiciel, de dev de jeux vidéo et de mont
 ### 🛠️ Tech Stack & Outils
 
 **Langages & FrameWorks**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
 **Game Dev & 3D**
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
 **Environnement & SysAdmin**
 ![Manjaro](https://img.shields.io/badge/Manjaro_Linux-35BF5C?style=flat-square&logo=manjaro&logoColor=white)
 ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=flat-square&logo=kde&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 **Électronique & Hardware**
@@ -41,7 +34,7 @@ Je suis un passionné de tech, de dev logiciel, de dev de jeux vidéo et de mont
 ### 🚀 Projets & Activités
 
 - 🔭 **En cours :** Développement de **Yes-today** (web app de suivi d'objectifs) et apprentissage poussé de C# / Unity.
-- ⚡ **Hardware & DIY :** Prototypage audio / cartes électroniques sur KiCad et gestion d'une instance Home Assistant / Pi-hole sous Docker.
+- ⚡ **Hardware & DIY :** Prototypage audio / cartes électroniques sur KiCad.
 - 🎬 **Montage vidéo :** Montage de contenus gaming / highlights sous DaVinci Resolve.
 - 🌱 **Système :** Optimisation et workflows avancés sous Manjaro Linux (KDE) & scripts Zsh.
 

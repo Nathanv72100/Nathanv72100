@@ -33,7 +33,7 @@ Je suis un passionné de tech, de dev logiciel, de dev de jeux vidéo et de mont
 
 ### 🚀 Projets & Activités
 
-- 🔭 **En cours :** Développement de **Yes-today** (web app de suivi d'objectifs) et apprentissage poussé de C# / Unity.
+- 🔭 **En cours :** apprentissage de javascript et développement en HTML et en CSS.
 - ⚡ **Hardware & DIY :** Prototypage audio / cartes électroniques sur KiCad.
 - 🎬 **Montage vidéo :** Montage de contenus gaming / highlights sous DaVinci Resolve.
 - 🌱 **Système :** Optimisation et workflows avancés sous Manjaro Linux (KDE) & scripts Zsh.
@@ -50,3 +50,4 @@ Je suis un passionné de tech, de dev logiciel, de dev de jeux vidéo et de mont
 ---
 
 📫 **Comment me contacter :** Via GitHub ou sur mes réseaux associés.
+<h3>ou bien par mon numéro de télephone: +33 6 24 54 82 25</h3>

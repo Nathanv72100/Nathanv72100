@@ -1,6 +1,6 @@
 # Hi there, I'm Nathan 👋
 
-🎮 **Dev web ** || 🎬 **Video Editor**
+ **Dev web ** || 🎬 **Video Editor**
 
 Je suis un passionné de tech, de dev logiciel et de montage. J'aime comprendre comment les choses fonctionnent sous le capot jusqu'à la création de serveurs conteneurisés.
 

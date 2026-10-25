@@ -12,11 +12,6 @@ Je suis un passionné de tech, de dev logiciel et de montage. J'aime comprendre 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-
-** Environnement **
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
 **Électronique & Hardware**
 ![KiCad](https://img.shields.io/badge/KiCad-314DA0?style=flat-square&logo=kicad&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)

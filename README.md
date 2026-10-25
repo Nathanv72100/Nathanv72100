@@ -1,14 +1,14 @@
 # Hi there, I'm Nathan 👋
 
-🎮 **Game Dev** | 💻 **Linux & Tech Enthusiast** | 🎬 **Video Editor**
+🎮 **Dev web ** || 🎬 **Video Editor**
 
-Je suis un passionné de tech, de dev logiciel, de dev de jeux vidéo et de montage. J'aime comprendre comment les choses fonctionnent sous le capot, du script Zsh à l'architecture C++ / Blueprint, jusqu'à la création de serveurs conteneurisés.
+Je suis un passionné de tech, de dev logiciel et de montage. J'aime comprendre comment les choses fonctionnent sous le capot jusqu'à la création de serveurs conteneurisés.
 
 ---
 
 ### 🛠️ Tech Stack & Outils
 
-**Langages & FrameWorks**
+**Langages**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -36,8 +36,6 @@ Je suis un passionné de tech, de dev logiciel, de dev de jeux vidéo et de mont
 - 🔭 **En cours :** apprentissage de javascript et développement en HTML et en CSS.
 - ⚡ **Hardware & DIY :** Prototypage audio / cartes électroniques sur KiCad.
 - 🎬 **Montage vidéo :** Montage de contenus gaming / highlights sous DaVinci Resolve.
-- 🌱 **Système :** Optimisation et workflows avancés sous Manjaro Linux (KDE) & scripts Zsh.
-
 ---
 
 ### 📊 GitHub Stats

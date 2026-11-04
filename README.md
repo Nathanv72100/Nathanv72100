@@ -40,4 +40,4 @@ Je suis un passionné de tech, de dev logiciel et de montage. J'aime comprendre 
 ---
 
 📫 **Comment me contacter :** Via GitHub ou sur mes réseaux associés.
-<h3>ou bien par mon numéro de télephone: +33 6 24 54 82 25</h3>
+<h3>ou bien par mon numéro de télephone: +33 6 24 54 82 25 <h6>(proffesionel)</h6></h3>

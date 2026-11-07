@@ -13,7 +13,7 @@ Je suis un passionné de tech, de dev logiciel et de montage. J'aime comprendre 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 
 **Électronique & Hardware**  
-<img src="https://img.shields.io/badge/KiCad-314DA0?style=flat-square&logo=kicad&logoColor=white" alt="KiCad" />
+<img src="https://img.shields.io/badge/EasyEDA-0072C6?style=flat-square&logo=easyeda&logoColor=white" alt="EasyEDA" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
 

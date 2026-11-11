@@ -1,33 +1,36 @@
 # Hi there, I'm Nathan 👋
 
-**Dev web** || 🎬 **Video Editor**
+**Web Developer** || 🎬 **Video Editor**
 
-Je suis un passionné de tech, de dev logiciel et de montage. J'aime comprendre comment les choses fonctionnent sous le capot jusqu'à la création de serveurs conteneurisés.
+I'm passionate about technology, software development, and video editing. I enjoy understanding how things work under the hood, from writing code to building and managing containerized servers.
 
 ---
 
-### 🛠️ Tech Stack & Outils
+### 🛠️ Tech Stack & Tools
 
-**Langages**  
+**Languages & Web Development**
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 
-**Électronique & Hardware**  
+**Electronics & Hardware**
+
 <img src="https://img.shields.io/badge/EasyEDA-0072C6?style=flat-square&logo=easyeda&logoColor=white" alt="EasyEDA" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
 
-**Création Média**  
+**Media Creation**
+
 <img src="https://img.shields.io/badge/DaVinci_Resolve-021929?style=flat-square&logo=davinci-resolve&logoColor=white" alt="DaVinci Resolve" />
 <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=flat-square&logo=obsstudio&logoColor=white" alt="OBS Studio" />
 
 ---
 
-### 🚀 Projets & Activités
+### 🚀 Projects & Activities
 
-- 🔭 **En cours :** Apprentissage de JavaScript et développement en HTML et en CSS.
-- ⚡ **Hardware & DIY :** Prototypage audio / cartes électroniques sur KiCad.
-- 🎬 **Montage vidéo :** Montage de contenus gaming / highlights sous DaVinci Resolve.
+- 🔭 **Currently learning:** JavaScript, while improving my HTML and CSS skills.
+- ⚡ **Hardware & DIY:** Audio prototyping and electronic circuit design.
+- 🎬 **Video Editing:** Creating gaming videos and highlights using DaVinci Resolve.
 
 ---
 
@@ -39,6 +42,7 @@ Je suis un passionné de tech, de dev logiciel et de montage. J'aime comprendre 
 
 ---
 
-📫 **Comment me contacter :** Via GitHub ou sur mes réseaux associés.
+### 📫 Get in Touch
 
-📞 **Téléphone (pro) :** +33 6 24 54 82 25*
+Feel free to contact me through GitHub or my linked social media accounts.
+
